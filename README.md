@@ -1,3 +1,9 @@
+
+# Introduciotn
+
+My devops project 2 assignment and my github repo link
+https://github.com/subashdatascience/cicd-pipeline-train-schedule-autodeploy
+
 # cicd-pipeline-train-schedule-autodeploy
 
 This is a simple train schedule app written using nodejs. It is intended to be used as a sample application for a series of hands-on learning activities.
